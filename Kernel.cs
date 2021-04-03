@@ -65,7 +65,7 @@ namespace CSharpKernel1
                     Console.WriteLine("calc - calc");
                     break;
                 case "dsver":
-                    Console.WriteLine("DragonSpace v0.2 closed alpha, codename: Ksenomorph");
+                    Console.WriteLine("DragonSpace v0.2 closed alpha, codename: Ksenomorph. GitHub: https://github.com/vikdem888/DragonSpace-v0.2-codename-Ksenomorph");
                     break;
                 case "cls":
                     Console.Clear();
