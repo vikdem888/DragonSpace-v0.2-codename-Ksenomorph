@@ -1,0 +1,8 @@
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\bin\Release\netcoreapp2.0\cosmos\Ksenomorph.deps.json
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\bin\Release\netcoreapp2.0\cosmos\Ksenomorph.dll
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\bin\Release\netcoreapp2.0\cosmos\Ksenomorph.pdb
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\obj\Release\netcoreapp2.0\cosmos\Ksenomorph.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\obj\Release\netcoreapp2.0\cosmos\Ksenomorph.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\obj\Release\netcoreapp2.0\cosmos\Ksenomorph.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\obj\Release\netcoreapp2.0\cosmos\Ksenomorph.dll
+C:\Users\Victor\source\repos\Ksenomorph\Ksenomorph\obj\Release\netcoreapp2.0\cosmos\Ksenomorph.pdb
